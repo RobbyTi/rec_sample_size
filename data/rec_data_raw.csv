@@ -1,0 +1,138 @@
+institution,expenditure_rank,country,included,contacted,form_available,archived_link,access_details,sample_size,justification,calculation,comments,verbatim
+Johns Hopkins University,1,us,1,1,public,https://web.archive.org/web/20230207160408/https%3A%2F%2Fwww.hopkinsmedicine.org%2Finstitutional_review_board%2Fforms%2F,"Select ""eFormA-Protocol""",0,1,99,"Other forms exist for low risk research, secondary research, and precision medicine. They mention sample size along with statistical plan, but they don't explicitly ask for a sample size calculation.","7.        Study Statistics
+a.        Primary outcome variable.
+b.        Secondary outcome variables.
+c.        Statistical plan including sample size justification and interim data analysis.
+"
+University of Michigan (Ann Arbor),2,us,1,1,private,private,available upon request; we did not request have permission to share this publicly.,1,0,0,The document is a huge Microsoft Excel sheet,"*Please indicate the number of subjects to be enrolled from ALL study locations to achieve the goal of the study...*Please indicate the number of subjects required (from ALL study sources, sites, and locations combined) to achieve the goal of the study (the statistical ""n"" of the study):"
+"University of California, San Francisco",3,us,0,1,noreply,NA,NA,NA,NA,NA,none provided,NA
+University of Pennsylvania,4,us,0,1,noreply,NA,NA,NA,NA,NA,none provided,NA
+"University of Washington, Seattle",5,us,1,0,public,https://web.archive.org/web/20231028002350/https://irb.ucsd.edu/_files/UCSD-Biomedical-Intervention-Protocol-Template-12.08.21.docx,"under the text ""APPLICATION IRB Protocol"" click on ""Download"".",1,0,0,The form asks respondents to justify if you CANNOT provide an estimate of the sample size. They don't ask to justify the sample size itself.,"2.9. Number of subjects. Is it possible to predict or describe the maximum number of subjects (or subject units) needed to complete the study, for each subject group?...No → Provide the rationale in the box below. Also, provide any other available information about the scope/size of the research. You do not need to complete the table."
+"University of California, San Diego",6,us,1,1,public,https://web.archive.org/web/20231028002350/https://irb.ucsd.edu/_files/UCSD-Biomedical-Intervention-Protocol-Template-12.08.21.docx,the form will automatically download when opening the url provided,1,1,1,The text about sample size is copied from the NIH Clinical Trial Protocol Template,"9.2        SAMPLE SIZE DETERMINATION
+Include number of participants to recruit, screen, and enroll to have adequate power to test the key hypotheses for the study.  Provide all information needed to validate your calculations and judge the feasibility of enrolling and following the necessary number of participants. In particular, specify all of the following: •        Outcome measure used for calculations (almost always the primary variable)
+•        Test statistic
+•        Null and alternative hypotheses
+•        Type I error rate (alpha)
+•        Power level (e.g., 80% power)
+•        Assumed event rate for dichotomous outcome (or mean and variance of continuous outcome) for each study arm, justified and referenced by historical data as much as possible
+•        Statistical method used to calculate the sample size, with a reference for it and for any software utilized 
+•        Anticipated impact of dropout rates, withdrawal, cross-over to other study arms, missing data, etc. on study power (see also 9.4.2 Analysis of the Primary Efficacy Endpoint(s) and 9.4.3 Analysis of the Secondary Endpoint(s))
+•        Method for adjusting calculations for planned interim analyses, if any (Section 9.4.6, Planned Interim Analyses).
+
+Further, present calculations from a suitable range of assumptions to gauge the robustness of the proposed sample size.
+
+Discuss whether the sample size provides sufficient power for addressing secondary endpoints or exploratory analyses (e.g., subgroup analyses or moderator analyses involving an interaction term, Section 9.4.9, Exploratory Analyses).
+
+"
+"University of California, Los Angeles",7,us,1,1,private,private,available upon request; we did not request have permission to share this publicly.,1,1,0,"The form states ""If applicable, indicate how the sample size was determined."" Whether they want a sample size calculation is somewhat ambiguous. They ask for a sample size determination after a phrase about stats, but the example sample size justification they provide does not include a calculation.","Indicate the anticipated total number of study participants that will be enrolled
+across all of the institutions....*Statistics and Data Analysis: Describe the proposed statistical procedures or descriptive  
+analyses for the study. If applicable, indicate how the sample size was determined. [example:] Sample size was determined by evaluating the number of medical students,
+junior residents, senior residents, and attendings currently make up the UCLA
+Orthopaedic Surgery Department. As the Department consists of 12 junior
+residents (PGY 1/2), 18 senior residents (PGY 3/4/5), and many attendings, it
+was determined that a total of 30 resident participants are likely available for
+this study. Medical student group size was chosen to be consistent with junior
+resident availability. The construct validity arm of the study will require 30
+total participants. Ten junior residents, 15 senior residents, and 5 attendings.
+The transferability arm of the study will require 20 total participants, 10
+medical student and 10 Junior Residents: half trained and half untrained.Indicate the anticipated total number of study participants that will be enrolled
+across all of the institutions.
+"
+University of Wisconsin-Madison,8,us,0,1,declined,NA,NA,NA,NA,NA,none provided,NA
+Harvard University,9,us,0,1,declined,NA,NA,NA,NA,NA,none provided,NA
+Stanford University,10,us,1,1,public,https://web.archive.org/web/20230206133629/https%3A%2F%2Fresearchcompliance.stanford.edu%2Fpanels%2Fhs%2Ffor-researchers%2Fforms-templates%2Fmedical,"Scroll down to ""eProtocol Forms:"" and then select ""Regular"", under ""Non-medical"".",1,0,0,The medical form was not publicly availabe. The non-medical form was available. We used the non-medical form for this reason. ,"8. Participant Population 
+State the following: (i) the number of participants expected to be enrolled at Stanford-affiliated site(s); (ii)the total number of participants expected to enroll at all sites; (iii) the type of participants (i.e. students, patients with certain cancer, patients with certain cardiac condition) and the reasons for using such participants. "
+Duke University,11,us,1,0,public,We were unable to save this page on web.archive.org,"The form is available at https://duke.box.com/s/xtkr13du573vlea9zv7a1fpt27bcqanj . This version is newer than the one we coded. The newer version does not explicitly ask for sample size, justification, or calculation. The version we coded is available upon request.",1,0,0,"They have another form for undergrad research, and another form for secondary data use.",Describe each proposed participant population. Include the expected number of participants in each population.
+Cornell University,12,us,0,1,declined,NA,NA,NA,NA,NA,none provided,NA
+"University of North Carolina, Chapel Hill",13,us,0,1,declined,NA,NA,NA,NA,NA,none provided,NA
+"Texas A&M University, College Station and Health Science Center",14,us,0,1,NA,NA,NA,NA,NA,NA,none provided,NA
+University of Pittsburgh,15,us,1,1,private,private,available upon request; we did not request have permission to share this publicly.,1,1,1,none provided,"1. Total number of subjects to be enrolled at this site...8. Describe the power analysis used and cite your method of statistical analysis.
+If a power analysis is not possible, thoroughly justify the sample size required for the study, including appropriate literature citation (alternatively provide
+page reference in attached protocol)"
+University of Maryland,16,us,1,1,public,https://web.archive.org/web/20230206172341/https://research.umd.edu/sites/default/files/2022-02/IRB-%282%29-Initial-Application-Part-2-Instructions.pdf,this link opens the form in your browser,1,1,0,none provided,"d) Enrollment Numbers: State the total number of subjects you plan to enroll (e.g., all
+groups, adults, adolescents, etc.). If unsure, provide an estimate of the maximum
+number of participants. e) Rational for Enrollment Numbers: Provide rationale for selecting the enrollment
+numbers stated in 2(d)."
+Yale University,17,us,0,1,NA,NA,NA,NA,NA,NA,none provided,NA
+University Texas M. D. Anderson Cancer Center,18,us,0,1,NA,NA,NA,NA,NA,NA,none provided,NA
+Georgia Institute of Technology,19,us,0,1,NA,NA,NA,NA,NA,NA,none provided,NA
+"University of Minnesota, Twin Cities",20,us,1,0,public,https://web.archive.org/web/20230207175743/https://research.umn.edu/sites/research.umn.edu/files/hrp-590_-_medical_template_protocol_-_with_instructions.docx,the form will automatically download when opening the url provided,1,1,99,none provided,"15.2        Power Analysis: Provide a power analysis, if applicable, justifying the sample size for this research study...23.1        Study-Wide Number of Participants: Indicate the total number of participants to be accrued across all sites."
+National Institutes of Health (phase 2 and 3 clinical trials of drugs or devices),NA,us,1,0,public,https://web.archive.org/web/20231028014710/https://osp.od.nih.gov/wp-content/uploads/2023/01/Protocol_Template_V1.0_040717.docx?highlight=%22IND%2FIDE%22&_rt=MXwxfGluZC9pZGV8MTY3NTk3Mzc2Ng&_rt_nonce=13810555a1,the form will automatically download when opening the url provided,1,1,1,none provided,"9.2        SAMPLE SIZE DETERMINATION
+Include number of participants to recruit, screen, and enroll to have adequate power to test the key hypotheses for the study.  Provide all information needed to validate your calculations and judge the feasibility of enrolling and following the necessary number of participants. In particular, specify all of the following:
+
+•        Outcome measure used for calculations (almost always the primary variable)
+•        Test statistic
+•        Null and alternative hypotheses
+•        Type I error rate (alpha)
+•        Power level (e.g., 80% power)
+•        Assumed event rate for dichotomous outcome (or mean and variance of continuous outcome) for each study arm, justified and referenced by historical data as much as possible
+•        Statistical method used to calculate the sample size, with a reference for it and for any software utilized 
+•        Anticipated impact of dropout rates, withdrawal, cross-over to other study arms, missing data, etc. on study power (see also 9.4.2 Analysis of the Primary Efficacy Endpoint(s) and 9.4.3 Analysis of the Secondary Endpoint(s))
+•        Method for adjusting calculations for planned interim analyses, if any (Section 9.4.6, Planned Interim Analyses).
+
+Further, present calculations from a suitable range of assumptions to gauge the robustness of the proposed sample size.
+
+Discuss whether the sample size provides sufficient power for addressing secondary endpoints or exploratory analyses (e.g., subgroup analyses or moderator analyses involving an interaction term, Section 9.4.9, Exploratory Analyses).
+"
+National Institutes of Health (behavioral and social clinical trials),NA,us,1,0,public,https://web.archive.org/web/20231028015037/https://osp.od.nih.gov/wp-content/uploads/2019-03-28_BSSR_Protocol_Template.docx,the form will automatically download when opening the url provided,1,1,1,none provided,"Include number of participants to have adequate power to test the primary hypothesis for the study. Provide all information needed to support the proposed calculations and judge the feasibility of enrolling and following the necessary number of participants. In particular, specify all of the following, including for secondary hypotheses, as appropriate to your planned relevant analysis:
+•        Outcome measure used for calculations (almost always the primary endpoint variable)
+•        Test statistic and statistical method used to calculate the sample size, with a reference for it and for any software utilized 
+•        Null and alternative hypotheses
+•        Type I error rate (alpha) and any adjustments for multiple outcomes tested
+•        Power level (e.g., 90% power) based on effect size of “X” and attrition rate of Y 
+•        For group- or cluster-randomized study trials and individually randomized group-treatment trials, report estimates of intraclass correlation, kappa, or equivalent, with justification, and document methods for sample size calculation.  Include a sensitivity analysis reflecting the impact of potential differences between the estimate and the realized value of the intraclass correlation or equivalent, the number of clusters per arm, and the size and variability in the size of those clusters.
+•        Effect size (outcome mean and variance) or range of effect sizes to detect with justification for the validity of this effect size from previous research (include citations)
+•        Assumed event rate for dichotomous outcome (or mean and variance of continuous outcome) for each study arm, justified and referenced by historical data as much as possible
+•        Anticipated impact of dropout rates, withdrawal, cross-over to other study arms, missing data, etc. on study power (see also Section 9.4.2, Analysis of the Primary Efficacy Endpoint(s) and Section 9.4.3, Analysis of the Secondary Endpoint(s))
+•        Method for adjusting calculations for planned interim analyses, if any (see Section 9.4.6, Planned Interim Analyses)
+•        For a qualitative analysis include a sampling plan that addresses participant selection (e.g., theoretical sampling or purposive sampling), as well as how the determination that adequate sample data has been attained (for example, theoretical saturation). Specific criteria should be provided for determining when this sample size is achieved (e.g., when three successive interviews are conducted with no new themes detected and all the key demographic characteristic variations have been represented). Cite support for these decisions.
+•        For a cluster-randomized or individually randomized group-treatment trial, report estimates of intraclass correlation, kappa or equivalent, with justification, and document methods for sample size calculation. Include a sensitivity analysis reflecting the impact of potential differences between the estimate and the realized value of the intraclass correlation or equivalent, the number of clusters per arm or condition, and the size and variability in the size of those clusters.
+•        For a Bayesian (non-frequentist) approach, include any simulation results as appendices and describe the choice of priors. For fixed-N designs, provide the expected distribution of Bayes factors or a justification for not using these factors. For sequential designs, describe the desired strength of evidence or stopping rule, what range of sample sizes are expected, and what is the probability of misleading evidence.
+In some cases, it may be useful to perform a sensitivity analysis to establish the smallest effect size that could be detected given the computed sample size and to indicate what the anticipated effect size might be.
+Further, present calculations from a suitable range of assumptions to gauge the robustness of the proposed sample size.
+Discuss whether the sample size provides sufficient power for addressing secondary endpoints or exploratory analyses (e.g., subgroup analyses or moderator analyses involving an interaction term, Section 9.4.9, Exploratory Analyses). Whenever possible, report the power for all secondary endpoints, using the computed sample size and data in the literature to guide those estimates.
+"
+The University of Oxford,1,uk,1,0,public,https://web.archive.org/web/20230208143647/https%3A%2F%2Fresearchsupport.admin.ox.ac.uk%2Fgovernance%2Fethics%2Fapply%2Fmsidrec#collapse394846,"Expand the section ""Completing the CUREC 1, CUREC 2, CUREC 3 or biological samples application form (including form downloads)"". Then select the text ""CUREC 3 combined protocol/application form"" and a word document will be downloaded.",1,1,1,none provided,"Number of Participants...Have you done a sample size calculation?
+If yes, please give details below
+If no, please give details to indicate you have considered the implications the selected sample size will have on the research outcome"
+The University of Cambridge,2,uk,1,1,public,http://web.archive.org/web/20231031200159/https://www.bio.cam.ac.uk/hbrec,"select ""Application form (updated September 2021)"", and then select ""hbrec_application_form_updated_september_2021.docx""",1,0,0,"There are many ethics committees, but none clearly for medicine (they point you to the NHS REC). ",Notes:  Describe the groups of participants that will be recruited and the principal eligibility criteria and ineligibility criteria. Make clear how many participants you plan to recruit into the study in total.
+University College London,3,uk,1,1,private,private,available upon request; we did not request have permission to share this publicly.,1,1,0,They only have 2 forms across the university: high-risk and low-risk,"C1a. Number of volunteers:
+      
+Upper age limit:
+      
+Lower age limit:
+      
+
+
+C1b. Please justify the age range and sample size:
+"
+Imperial College London,4,uk,1,1,public,https://web.archive.org/web/20230208144704/https%3A%2F%2Fwww.imperial.ac.uk%2Fresearch-ethics-committee%2Fapplication%2Fundergraduate%2F,"select ""ICREC Primary Data Protocol Template [Word]"" and the form will download",1,0,0,"ICREC form (non-NHS, but still health)","3.        STUDY DESIGN
+Detail how this study will be conducted from advertising to data processing. Include points below:
+•        Type of study: survey, interviews, focus groups, simulator study
+•        Recruitment methods: how you will recruit participants, use of participant information sheets and consent forms 
+•        Duration of study from advertising and recruitment to end of data collection
+•        Number of participants
+"
+The University of Edinburgh,5,uk,1,1,private,private,available upon request; we did not request have permission to share this publicly.,1,0,0,"somewhat abmiguous language used: ""if known""","2A.1 What is the sample group or cohort to be studied in this research?  
+If applicable and known, please specify sex/gender, lower and upper age limits, sample size and  any other specific sample group/cohort specifications.  
+"
+The University of Manchester,6,uk,0,1,declined,NA,NA,NA,NA,NA,none provided,NA
+King's College London,7,uk,0,1,declined,NA,NA,NA,NA,NA,none provided,NA
+The University of Glasgow,8,uk,1,1,public,https://web.archive.org/web/20230208145822/https%3A%2F%2Fwww.gla.ac.uk%2Fcolleges%2Fmvls%2Fresearchinnovationengagementsupport%2Fcollegeethicscommittee%2F,"Select ""MVLS interventional research ethics form""",1,1,0,mentions statistical advice if needed.,"2. Describe the design of the study and methods to be used.  If multiple methods are to be used, please describe them each in turn.  Include details of the study sample size and how you decided this.  Statistical advice should be obtained if in doubt."
+London School of Hygiene and Tropical Medicine,9,uk,0,0,private,NA,NA,NA,NA,NA,This institution was not contacted. The first coder mistakenly considered this institution as not relevant.,NA
+The University of Bristol,10,uk,0,1,declined,NA,NA,NA,NA,NA,none provided,NA
+The University of Sheffield,11,uk,0,1,declined,NA,NA,NA,NA,NA,none provided,NA
+The University of Birmingham,12,uk,1,1,public,https://web.archive.org/web/20230208151549/https%3A%2F%2Fintranet.birmingham.ac.uk%2Ffinance%2Fdocuments%2Fpublic%2Faer.docx,the form will automatically download when opening the url provided,1,0,0,This university updated to an online application system in 2023,"Describe the number of participants and important characteristics (such as age, gender, location, affiliation, level of fitness, intellectual ability etc.). Specify any inclusion/exclusion criteria to be used."
+The University of Warwick,13,uk,1,0,public,https://web.archive.org/web/20230207181617/https%3A%2F%2Fwarwick.ac.uk%2Fservices%2Fris%2Fresearch_integrity%2Fresearchethicscommittees%2Fbiomed%2F,"Select ""BSREC Application Form""",1,1,0,none provided,"6.1 State the total number of planned participants and the sampling strategy; provide justification for this:
+To include:
+•        The rationale behind the proposed size of the sample
+•        Will the sample size provide enough data to answer the research question?
+•        If sampling will be continued until saturation is reached, then this should be stated and linked to the research question
+•        Sampling strategy- is this random, snowball, purposive, convenience etc. 
+•        What is the rationale for this- it should reflect the methodological framework for the study
+"
+Queen Mary University of London,14,uk,1,0,public,https://web.archive.org/web/20230218142737/http%3A%2F%2Fwww.jrmo.org.uk%2Fperforming-research%2Fconducting-research-with-human-participants-outside-the-nhs%2Fdocuments-guidance-and-resources%2F,"Select ""QMERC Research Ethics Application Form [DOC 122KB]""",1,1,0,none provided,6d. State the number of participants to be recruited and explain how the sample size was decided.
+The University of Leeds,15,uk,1,0,public,https://web.archive.org/web/20230208142740/https%3A%2F%2Fris.leeds.ac.uk%2Fresearch-ethics-and-integrity%2Fapplication-process%2F,"Select ""Standard ethical review form""",1,1,99,none provided,"C.9 How many participants will be recruited and how was the number decided upon?28
+It is important to ensure that enough participants are recruited to be able to answer the aims of the research...If you have a formal power calculation please replicate it here.
+"
+NHS HRA,NA,uk,1,0,public,https://www.myresearchproject.org.uk/SignIn.aspx,"An account is needed to access the questions. Alternatively, we can provide the questions upon request.",1,1,99,version 6.3.2,"A59. What is the sample size for the research? How many participants/samples/data records do you plan to study in total? If there is more than one group, please give further details below...A60. How was the sample size decided upon? If a formal sample size calculation was used, indicate how this was done, giving sufficient information to justify and reproduce the calculation."
