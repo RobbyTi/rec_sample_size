@@ -24,7 +24,7 @@ library(kableExtra) # for kable table styling
 # This chuck calcuates all the results
 
 # Import data
-filename <- paste0(getwd(), "/data/rec_data_raw.csv")
+filename <- file.path("..", "data", "rec_data_raw.csv")
 rec <- read.csv(filename, header = T)
 
 # Create separate dataframes for only US and only UK institutions
