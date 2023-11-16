@@ -49,7 +49,7 @@ rec_flowchart <- function(df){
       sum(df$contacted == T),
       sum(df$contacted == 1 & df$form_available == "public", na.rm = T),
       sum(sum(df$contacted == 1 & df$form_available == "private", na.rm = T)),
-      sum(df$form_available == "declined", na.rm = T),
+      sum(grepl("declined", df$form_available)),
       sum(df$form_available == "noreply" | is.na(df$form_available))
     )
   )

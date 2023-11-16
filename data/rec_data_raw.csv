@@ -38,14 +38,14 @@ The transferability arm of the study will require 20 total participants, 10
 medical student and 10 Junior Residents: half trained and half untrained.Indicate the anticipated total number of study participants that will be enrolled
 across all of the institutions.
 "
-University of Wisconsin-Madison,8,us,0,1,declined,NA,NA,NA,NA,NA,none provided,NA
+University of Wisconsin-Madison,8,us,0,1,declined_online,NA,NA,NA,NA,NA,none provided,NA
 Harvard University,9,us,0,1,declined,NA,NA,NA,NA,NA,none provided,NA
 Stanford University,10,us,1,1,public,https://web.archive.org/web/20230206133629/https%3A%2F%2Fresearchcompliance.stanford.edu%2Fpanels%2Fhs%2Ffor-researchers%2Fforms-templates%2Fmedical,"Scroll down to ""eProtocol Forms:"" and then select ""Regular"", under ""Non-medical"".",1,0,0,The medical form was not publicly availabe. The non-medical form was available. We used the non-medical form for this reason. ,"8. Participant Population 
 State the following: (i) the number of participants expected to be enrolled at Stanford-affiliated site(s); (ii)the total number of participants expected to enroll at all sites; (iii) the type of participants (i.e. students, patients with certain cancer, patients with certain cardiac condition) and the reasons for using such participants. "
 Duke University,11,us,1,0,public,We were unable to save this page on web.archive.org,"The form is available at https://duke.box.com/s/xtkr13du573vlea9zv7a1fpt27bcqanj . This version is newer than the one we coded. The newer version does not explicitly ask for sample size, justification, or calculation. The version we coded is available upon request.",1,0,0,"They have another form for undergrad research, and another form for secondary data use.",Describe each proposed participant population. Include the expected number of participants in each population.
-Cornell University,12,us,0,1,declined,NA,NA,NA,NA,NA,none provided,NA
-"University of North Carolina, Chapel Hill",13,us,0,1,declined,NA,NA,NA,NA,NA,none provided,NA
-"Texas A&M University, College Station and Health Science Center",14,us,0,1,NA,NA,NA,NA,NA,NA,none provided,NA
+Cornell University,12,us,0,1,declined_online,NA,NA,NA,NA,NA,none provided,NA
+"University of North Carolina, Chapel Hill",13,us,0,1,declined_online,NA,NA,NA,NA,NA,none provided,NA
+"Texas A&M University, College Station and Health Science Center",14,us,0,1,noreply,NA,NA,NA,NA,NA,none provided,NA
 University of Pittsburgh,15,us,1,1,private,private,available upon request; we did not request have permission to share this publicly.,1,1,1,none provided,"1. Total number of subjects to be enrolled at this site...8. Describe the power analysis used and cite your method of statistical analysis.
 If a power analysis is not possible, thoroughly justify the sample size required for the study, including appropriate literature citation (alternatively provide
 page reference in attached protocol)"
@@ -53,9 +53,8 @@ University of Maryland,16,us,1,1,public,https://web.archive.org/web/202302061723
 groups, adults, adolescents, etc.). If unsure, provide an estimate of the maximum
 number of participants. e) Rational for Enrollment Numbers: Provide rationale for selecting the enrollment
 numbers stated in 2(d)."
-Yale University,17,us,0,1,NA,NA,NA,NA,NA,NA,none provided,NA
-University Texas M. D. Anderson Cancer Center,18,us,0,1,NA,NA,NA,NA,NA,NA,none provided,NA
-Georgia Institute of Technology,19,us,0,1,NA,NA,NA,NA,NA,NA,none provided,NA
+Yale University,17,us,0,1,noreply,NA,NA,NA,NA,NA,none provided,NA
+University Texas M. D. Anderson Cancer Center,18,us,0,1,noreply,NA,NA,NA,NA,NA,none provided,NA
 "University of Minnesota, Twin Cities",20,us,1,0,public,https://web.archive.org/web/20230207175743/https://research.umn.edu/sites/research.umn.edu/files/hrp-590_-_medical_template_protocol_-_with_instructions.docx,the form will automatically download when opening the url provided,1,1,99,none provided,"15.2        Power Analysis: Provide a power analysis, if applicable, justifying the sample size for this research study...23.1        Study-Wide Number of Participants: Indicate the total number of participants to be accrued across all sites."
 National Institutes of Health (phase 2 and 3 clinical trials of drugs or devices),NA,us,1,0,public,https://web.archive.org/web/20231028014710/https://osp.od.nih.gov/wp-content/uploads/2023/01/Protocol_Template_V1.0_040717.docx?highlight=%22IND%2FIDE%22&_rt=MXwxfGluZC9pZGV8MTY3NTk3Mzc2Ng&_rt_nonce=13810555a1,the form will automatically download when opening the url provided,1,1,1,none provided,"9.2        SAMPLE SIZE DETERMINATION
 Include number of participants to recruit, screen, and enroll to have adequate power to test the key hypotheses for the study.  Provide all information needed to validate your calculations and judge the feasibility of enrolling and following the necessary number of participants. In particular, specify all of the following:
@@ -116,12 +115,11 @@ Detail how this study will be conducted from advertising to data processing. Inc
 The University of Edinburgh,5,uk,1,1,private,private,available upon request; we did not request have permission to share this publicly.,1,0,0,"somewhat abmiguous language used: ""if known""","2A.1 What is the sample group or cohort to be studied in this research?  
 If applicable and known, please specify sex/gender, lower and upper age limits, sample size and  any other specific sample group/cohort specifications.  
 "
-The University of Manchester,6,uk,0,1,declined,NA,NA,NA,NA,NA,none provided,NA
-King's College London,7,uk,0,1,declined,NA,NA,NA,NA,NA,none provided,NA
+The University of Manchester,6,uk,0,1,declined_online,NA,NA,NA,NA,NA,none provided,NA
+King's College London,7,uk,0,1,declined_online,NA,NA,NA,NA,NA,none provided,NA
 The University of Glasgow,8,uk,1,1,public,https://web.archive.org/web/20230208145822/https%3A%2F%2Fwww.gla.ac.uk%2Fcolleges%2Fmvls%2Fresearchinnovationengagementsupport%2Fcollegeethicscommittee%2F,"Select ""MVLS interventional research ethics form""",1,1,0,mentions statistical advice if needed.,"2. Describe the design of the study and methods to be used.  If multiple methods are to be used, please describe them each in turn.  Include details of the study sample size and how you decided this.  Statistical advice should be obtained if in doubt."
-London School of Hygiene and Tropical Medicine,9,uk,0,0,private,NA,NA,NA,NA,NA,This institution was not contacted. The first coder mistakenly considered this institution as not relevant.,NA
-The University of Bristol,10,uk,0,1,declined,NA,NA,NA,NA,NA,none provided,NA
-The University of Sheffield,11,uk,0,1,declined,NA,NA,NA,NA,NA,none provided,NA
+The University of Bristol,10,uk,0,1,declined_online,NA,NA,NA,NA,NA,none provided,NA
+The University of Sheffield,11,uk,0,1,noreply,NA,NA,NA,NA,NA,none provided,NA
 The University of Birmingham,12,uk,1,1,public,https://web.archive.org/web/20230208151549/https%3A%2F%2Fintranet.birmingham.ac.uk%2Ffinance%2Fdocuments%2Fpublic%2Faer.docx,the form will automatically download when opening the url provided,1,0,0,This university updated to an online application system in 2023,"Describe the number of participants and important characteristics (such as age, gender, location, affiliation, level of fitness, intellectual ability etc.). Specify any inclusion/exclusion criteria to be used."
 The University of Warwick,13,uk,1,0,public,https://web.archive.org/web/20230207181617/https%3A%2F%2Fwarwick.ac.uk%2Fservices%2Fris%2Fresearch_integrity%2Fresearchethicscommittees%2Fbiomed%2F,"Select ""BSREC Application Form""",1,1,0,none provided,"6.1 State the total number of planned participants and the sampling strategy; provide justification for this:
 To include:
