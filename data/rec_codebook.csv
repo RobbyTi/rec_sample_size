@@ -1,0 +1,14 @@
+﻿variable,description
+institution,name of the institution sampled
+expenditure_rank,"rank for institutions within each country, based on research expenditure, as identified through the sources outlined in the manuscript"
+country,US or UK
+included,whether the institution was include (1 = yes; 0 = no)
+contacted,whether we emailed the institution (1 = yes; 0 = no)
+form_available,"whether the form was available (public = openly available online without credentials; private = shared with us via email, but not openly available online without credentials; declined = a REC representative responded to our email that they will not share a private ethics form; declined_online = the REC representative responded to our email that they cannot share the ethics form because it is an online submission portal; noreply = no one replied ot the email we sent to the REC)"
+archived_link,an archived link to the form we coded
+access_details,"further details for how to access the archived form. After opening some of the archived_link urls, you need to select another hyperlink."
+sample_size,whether the form explicitly asked for the planned sample size of the proposed study (1 = yes; 0 = no)
+justification,whether the form explicitly asked for a justification of the sample size of the proposed study (1 = yes; 0 = no)
+calculation,"whether the form asked for a sample size calculation for the proposed study (1 = yes, explicitly; 0 = no; 99 = yes, indirectly)"
+comments,additional notes about the institution or form
+verbatim,"the verbatim text copy-pasted from the form which informed the coding of the variables sample_size, justification, and calculation"
